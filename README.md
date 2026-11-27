@@ -31,22 +31,6 @@ The system uses a **DenseNet121 Convolutional Neural Network (CNN)** trained usi
 
 ---
 
-## 🌐 Live Demo
-
-🔗 **Try the deployed application**
-
-https://chest-x-ray-disease-detection-system-by-rohit-raut.streamlit.app/
-
-This interactive application allows users to:
-
-- Upload chest X-ray images
-- Run AI prediction
-- View disease probabilities
-- Visualize **GradCAM attention maps**
-- Download an **AI diagnostic report (PDF)**
-
----
-
 ## 🧠 Problem Statement
 
 Chest X-ray interpretation is one of the most common diagnostic procedures in **medical imaging**.
@@ -329,11 +313,6 @@ chest-x-ray-disease-detection
 
 ## 🚀 Run Locally
 
-### Clone repository
-```bash
-git clone https://github.com/rohit-1024/chest-x-ray-disease-detection.git
-```
-
 ### Navigate to project
 ```bash
 cd chest-x-ray-disease-detection
@@ -402,14 +381,3 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
-
-**Rohit Raut**
-
-📧 Email: rohit.it4368@gmail.com
-
-🐙 GitHub: https://github.com/rohit-1024
-
-💼 LinkedIn: https://www.linkedin.com/in/rohit1024/
-
----
